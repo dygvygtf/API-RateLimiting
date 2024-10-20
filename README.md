@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
-- [API Endpoints](#api-endpoints)
 - [Rate Limiting](#rate-limiting)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
